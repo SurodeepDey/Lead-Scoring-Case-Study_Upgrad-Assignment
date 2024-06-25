@@ -31,7 +31,7 @@ In this assignment, an education company named X Education sells online courses 
 
 • Assignment_Subjective_Questions.pdf: Some subjective questions answered
 
-• Lead_Scoring_Presentation.pdf : Final Presentation
+• Lead_Scoring_Presentation.pdf
 
 • Leads.csv: Data Set
 
